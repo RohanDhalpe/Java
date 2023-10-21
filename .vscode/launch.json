@@ -1,0 +1,164 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "stackB",
+      "request": "launch",
+      "mainClass": "StackEx.stackB",
+      "projectName": "Java_3df404fa"
+    },
+    {
+      "type": "java",
+      "name": "LinkedList",
+      "request": "launch",
+      "mainClass": "LinkedList",
+      "projectName": "Java_3df404fa"
+    },
+    {
+      "type": "java",
+      "name": "staticex",
+      "request": "launch",
+      "mainClass": "staticex",
+      "projectName": "Java_3df404fa"
+    },
+    {
+      "type": "java",
+      "name": "interexample",
+      "request": "launch",
+      "mainClass": "interexample",
+      "projectName": "Java_3df404fa"
+    },
+    {
+      "type": "java",
+      "name": "interfacese",
+      "request": "launch",
+      "mainClass": "interfacese",
+      "projectName": "Java_3df404fa"
+    },
+    {
+      "type": "java",
+      "name": "abstractex",
+      "request": "launch",
+      "mainClass": "abstractex",
+      "projectName": "Java_3df404fa"
+    },
+    {
+      "type": "java",
+      "name": "inheritOverride",
+      "request": "launch",
+      "mainClass": "inheritOverride",
+      "projectName": "Java_3df404fa"
+    },
+    {
+      "type": "java",
+      "name": "inheritanceParamConst",
+      "request": "launch",
+      "mainClass": "inheritanceParamConst",
+      "projectName": "Java_3df404fa"
+    },
+    {
+      "type": "java",
+      "name": "inheritConstructor",
+      "request": "launch",
+      "mainClass": "inheritConstructor",
+      "projectName": "Java_3df404fa"
+    },
+    {
+      "type": "java",
+      "name": "Inheritance",
+      "request": "launch",
+      "mainClass": "Inheritance",
+      "projectName": "Java_3df404fa"
+    },
+    {
+      "type": "java",
+      "name": "classExample2",
+      "request": "launch",
+      "mainClass": "classExample2",
+      "projectName": "Java_3df404fa"
+    },
+    {
+      "type": "java",
+      "name": "classExample",
+      "request": "launch",
+      "mainClass": "classExample",
+      "projectName": "Java_3df404fa"
+    },
+    {
+      "type": "java",
+      "name": "OOPS",
+      "request": "launch",
+      "mainClass": "OOPS",
+      "projectName": "Java_3df404fa"
+    },
+    {
+      "type": "java",
+      "name": "palindrome",
+      "request": "launch",
+      "mainClass": "palindrome",
+      "projectName": "Java_3df404fa"
+    },
+    {
+      "type": "java",
+      "name": "basicString",
+      "request": "launch",
+      "mainClass": "basicString",
+      "projectName": "Java_3df404fa"
+    },
+    {
+      "type": "java",
+      "name": "printSubarrays",
+      "request": "launch",
+      "mainClass": "printSubarrays",
+      "projectName": "Java_3df404fa"
+    },
+    {
+      "type": "java",
+      "name": "pairs",
+      "request": "launch",
+      "mainClass": "pairs",
+      "projectName": "Java_3df404fa"
+    },
+    {
+      "type": "java",
+      "name": "linearSearch",
+      "request": "launch",
+      "mainClass": "linearSearch",
+      "projectName": "Java_3df404fa"
+    },
+    {
+      "type": "java",
+      "name": "decTobinary",
+      "request": "launch",
+      "mainClass": "decTobinary",
+      "projectName": "Java_3df404fa"
+    },
+    {
+      "type": "java",
+      "name": "binaryToDec",
+      "request": "launch",
+      "mainClass": "binaryToDec",
+      "projectName": "Java_3df404fa"
+    },
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": false,
+      "externalConsole": true,
+      "cwd": "c:/Java",
+      "program": "c:/Java/build/Debug/outDebug",
+      "MIMode": "gdb",
+      "miDebuggerPath": "gdb",
+      "setupCommands": [
+        {
+          "description": "Enable pretty-printing for gdb",
+          "text": "-enable-pretty-printing",
+          "ignoreFailures": true
+        }
+      ]
+    }
+  ]
+}
